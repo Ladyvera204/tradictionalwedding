@@ -1,5 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-.link`,.span1, .p, .a-video {
-    opacity: .8;
-    z-index: 10;
